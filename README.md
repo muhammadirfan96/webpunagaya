@@ -1,2 +1,2 @@
 # webpunagaya
-web aplication
+web aplication (belajar)
