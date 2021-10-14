@@ -1,4 +1,5 @@
 webpunagaya menyediakan fitur untuk
 - baca sop ik
 - checklist peralatan
-- membuat sr manual
+- membuat sr/sr flm manual
+- membuat form 5s
