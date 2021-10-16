@@ -2,4 +2,7 @@ satu
 - a
 - b
 dua
+- a
+- b
+- c
 tiga
