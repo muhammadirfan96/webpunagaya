@@ -1,8 +1,9 @@
 satu
 - a
 - b
+- c
+- d
 dua
 - a
 - b
-- c
 tiga
