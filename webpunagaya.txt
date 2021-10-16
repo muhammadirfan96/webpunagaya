@@ -1,5 +1,15 @@
 satu
 - a
 - b
+ * 1
+ * 2
+ * 3
+- c
 dua
+- a
+- b
 tiga
+- a
+ * 1
+ * 2
+- b
